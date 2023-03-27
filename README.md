@@ -10,4 +10,8 @@ _● Which movies contributed the most/least to revenue gain?<br>
 ● Do sales figures vary between geographic regions?_<br>
 ## Data Set
 [RockBuster Data Set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) <br>
-Around 3mb in size, containing multiple files.
+Around 3mb in size, containing multiple files.<br>
+## Visualizations in Tableau
+[Geographical Revenue and Distibution RockBuster](https://public.tableau.com/app/profile/jacob.yount1665/viz/GeographocalRevenueandDistributionRockbuster/Sheet1) <br>
+[Revenue by Genre RockBuster](https://public.tableau.com/app/profile/jacob.yount1665/viz/RevenuebyGenre_16765663395760/Sheet2)<br>
+You can also see the final presentation as an uploaded file. 
