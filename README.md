@@ -1,4 +1,4 @@
-# SQL
+# SQL RockBuster Project
 Contains Data Analysis for a company, Rockbuster. Conducted as a project while at CareerFoundry. 
 ## Objective
 RockBuster Stealth LLC is looking to make a move into the online streaming world and has asked us to help with a launch strategy. Our goal is to help answer some business questions to assist in the launch of their new online streaming service. <br><br>
